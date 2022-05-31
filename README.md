@@ -10,7 +10,7 @@
 - 💬 Ask me about Javascript ReactJS Visual Design
 - 📫 Feel free chat with me: ashulohani97@outlook.com
 - 😄 Pronouns: he/him
-- ⚡ In meantime, you'll find me obsessed with space🪐, photography📸, sketching✏️, anime🍥, playing [tabla](https://en.wikipedia.org/wiki/Tabla), guitar and badminton. (neighbourhood professional✨)
+- ⚡ In meantime, you'll find me obsessed with space, photography, sketching, anime, playing [tabla](https://en.wikipedia.org/wiki/Tabla), guitar and badminton. (neighbourhood professional✨)
 
 
 ## Languages and Tools:
