@@ -4,7 +4,7 @@
 I'm Ashutosh Lohani, people call me Aashu. I'm a self taught Frontend developer and Creaive Developer based on Nainital India. The space between development and design where i float. I prefer to build useful and usable things with quality code and a great user experience.
 
 - 🔭 I’m currently working on my portfolio 
-- 🌱 I’m currently learning React.js, Redux, Next.js and 3D modeling and animation with <a>Blender</a>
+- 🌱 I’m currently learning React.js, Redux, Next.js and 3D modeling and animation with [Blender](https://www.blender.org/)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Javascript ReactJS Photography Graphics Design
