@@ -1,8 +1,8 @@
 
 # Ashutosh Lohani 
-/aa-shu-towsh/
+### /aa-shu-towsh/
 
-Hi there! नमस्ते <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> I'm Aashu. I'm a self taught Frontend developer and Creaive Developer based on Nainital India. The space between development and design where i float. I prefer to build useful and usable things with quality code and a great user experience.
+Hi there! नमस्ते <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Hi there! I'm Aashu. I'm a self taught Frontend developer and Creaive Developer based on Nainital India. The space between development and design where i float. I prefer to build useful and usable things with quality code and a great user experience.
 
 ## About Me
 - 🔭 I’m currently working on my portfolio 
