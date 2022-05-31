@@ -11,9 +11,8 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Javascript ReactJS Photography Graphics Design
 - 📫 How to reach me: ashulohani97@outlook.com 
-- 😄 Pronouns: /aa-shu-towsh/ ● he/him
-- ⚡ Fun fact: ...
-
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: In meantime, you'll find me obsessed with space🪐, photography📸, sketching✏️, anime🍥, playing [tabla](https://en.wikipedia.org/wiki/Tabla), guitar and badminton. (neighbourhood professional✨)
 
 
 ### Languages and Tools:
