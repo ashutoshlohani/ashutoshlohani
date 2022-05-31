@@ -13,7 +13,7 @@
 - ⚡ In meantime, you'll find me obsessed with space🪐, photography📸, sketching✏️, anime🍥, playing [tabla](https://en.wikipedia.org/wiki/Tabla), guitar and badminton. (neighbourhood professional✨)
 
 
-### Languages and Tools:
+## Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
