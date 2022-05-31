@@ -6,8 +6,9 @@
 
 ## About Me
 - 🔭 I’m currently working on my portfolio and strengthening my JavaScript skills.
-- 🌱 I’m currently learning React.js, Redux, Firebase, Next.js, and 3D modeling and animation with [Blender](https://www.blender.org/)
-- 💬 Ask me about Javascript, ReactJS, Graphics Design
+- 🌱 I’m currently learning React.js, Redux, Firebase and 3D modeling and animation with [Blender](https://www.blender.org/).
+- 🤔 What I want to do next: Dive into react ecosystem to learn Next.js, Gatsby, GraphQL, Testing, and React Native.
+- 💬 Ask me about Javascript, ReactJS, Tech and Graphics Design
 - 📫 Feel free chat with me: ashulohani97@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ In meantime, you'll find me obsessed with Space🪐 Photography📸 Sketching✏️ Anime🍥, playing [Tabla](https://en.wikipedia.org/wiki/Tabla), Guitar and Badminton (neighbourhood professional✨).
