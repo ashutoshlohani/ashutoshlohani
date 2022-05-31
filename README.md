@@ -2,7 +2,7 @@
 # Ashutosh Lohani 
 /aa-shu-towsh/
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> नमस्ते | Hi there! I'm Aashu. I'm a self taught Frontend developer and Creaive Developer based on [Nainital India](https://www.google.com/search?q=nainital&rlz=1C1CHBF_enIN975IN975&sxsrf=ALiCzsbz8c5cWOMmYzFLo4_iNcjx2IpCZQ:1654017523495&tbm=isch&source=iu&ictx=1&vet=1&fir=AJm9zv27oPLhHM%252CyBt-a5DLM5QULM%252C%252Fm%252F018ck9&usg=AI4_-kTEcy9d6z80NOe98N1GtbYK81y_fA&sa=X&ved=2ahUKEwjgrcK3n4r4AhX27zgGHYwqB-UQ_B16BAhzEAE#imgrc=AJm9zv27oPLhHM). The space between development and design where i float. I prefer to build useful and usable things with quality code and a great user experience.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> नमस्ते | Hi there! I'm Aashu. I'm a self taught Frontend developer and Creaive Developer based on [Nainital India](https://www.google.com/search?q=nainital&sxsrf=ALiCzsZbA5imlaxq1odPnOGj6P7fMADoug%3A1654019878275&source=hp&ei=JleWYujnDuf04-EPyrS_mAk&iflsig=AJiK0e8AAAAAYpZlNteAUU4R-d8-xzd8i0nVHZmfP4Qo&gs_ssp=eJzj4tTP1TcwtEjOtjRg9OLIS8zMyyxJzAEAPqQGUg&oq=nani&gs_lcp=Cgdnd3Mtd2l6EAMYADIKCC4QsQMQgwEQCjIECC4QQzIKCAAQsQMQgwEQCjIKCAAQsQMQgwEQCjIICC4QgAQQ1AIyBAgAEEMyDQguELEDEMcBEKMCEAoyCggAELEDEIMBEAoyDQgAELEDEIMBEMkDEAoyBQgAEIAEOgcIIxDqAhAnOgcILhDqAhAnOgQILhAnOgQIIxAnOgUILhCRAjoRCC4QgAQQsQMQgwEQxwEQ0QM6CwgAEIAEELEDEIMBOgcILhDUAhBDOgoIABCABBCHAhAUOgUILhCABFCiC1jAJGD_MGgBcAB4AIAB4QGIAYYGkgEFMC4zLjGYAQCgAQGwAQo&sclient=gws-wiz). The space between development and design where i float. I prefer to build useful and usable things with quality code and a great user experience.
 
 ## About Me
 - 🔭 I’m currently working on my portfolio 
