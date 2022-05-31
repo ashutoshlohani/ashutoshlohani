@@ -7,10 +7,10 @@
 ## About Me
 - 🔭 I’m currently working on my portfolio 
 - 🌱 I’m currently learning React.js, Redux, Next.js and 3D modeling and animation with [Blender](https://www.blender.org/)
-- 💬 Ask me about Javascript ReactJS Photography Graphics Design
+- 💬 Ask me about Javascript ReactJS Visual Design
 - 📫 How to reach me: ashulohani97@outlook.com 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: In meantime, you'll find me obsessed with space🪐, photography📸, sketching✏️, anime🍥, playing [tabla](https://en.wikipedia.org/wiki/Tabla), guitar and badminton. (neighbourhood professional✨)
+- ⚡ In meantime, you'll find me obsessed with space🪐, photography📸, sketching✏️, anime🍥, playing [tabla](https://en.wikipedia.org/wiki/Tabla), guitar and badminton. (neighbourhood professional✨)
 
 
 ### Languages and Tools:
