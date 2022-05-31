@@ -7,8 +7,6 @@
 ## About Me
 - 🔭 I’m currently working on my portfolio 
 - 🌱 I’m currently learning React.js, Redux, Next.js and 3D modeling and animation with [Blender](https://www.blender.org/)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Javascript ReactJS Photography Graphics Design
 - 📫 How to reach me: ashulohani97@outlook.com 
 - 😄 Pronouns: he/him
