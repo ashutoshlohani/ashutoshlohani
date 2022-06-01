@@ -3,7 +3,7 @@
 [<img
    align="right"
    alt="Instagram"
-   width="28px"
+   width="26px"
    style="padding-left: 10px"
    src="https://user-images.githubusercontent.com/54906517/171448904-7a6f2345-3d18-4cf4-8365-fb6eae9d7f7e.png"
 />](https://www.instagram.com/ashutosh_lohani/)
@@ -11,7 +11,7 @@
 [<img
    align="right"
    alt="Discord"
-   width="30px"
+   width="29px"
    style="padding-left: 10px"
    src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" 
 />](https://discordapp.com/users/952633305478594580)
@@ -19,7 +19,7 @@
 [<img
    align="right"
    alt="Dribble"
-   width="29px"
+   width="27px"
    style="padding-left: 10px"
    src="https://user-images.githubusercontent.com/54906517/171449267-c96b9efe-4b94-4998-88e6-0a1aaae05f56.png"
 />](https://dribbble.com/oaashu)
@@ -27,7 +27,7 @@
 [<img
    align="right"
    alt="Twitter"
-   width="29px"
+   width="27px"
    style="padding-left: 10px"
    src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"
 />](https://twitter.com/oye__aashu)
@@ -35,7 +35,7 @@
 [<img
    align="right"
    alt="LinkedIn"
-   width="28px"
+   width="26px"
    style="padding-left: 10px"
    src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"
 />](https://www.linkedin.com/in/ashutosh-lohani)
