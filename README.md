@@ -24,7 +24,7 @@ linkedIn Twitter Dribble Instagram
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-/>]()
+/>](https://code.visualstudio.com/)
 
 [<img
    align="left"
@@ -32,7 +32,7 @@ linkedIn Twitter Dribble Instagram
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-/>]()
+/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 [<img
    align="left"
@@ -40,7 +40,7 @@ linkedIn Twitter Dribble Instagram
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-/>]()
+/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 [<img
    align="left"
@@ -48,7 +48,7 @@ linkedIn Twitter Dribble Instagram
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
-/>]()
+/>](https://sass-lang.com/)
 
 [<img
    align="left"
@@ -56,7 +56,7 @@ linkedIn Twitter Dribble Instagram
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-/>]()
+/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 [<img
    align="left"
@@ -72,7 +72,7 @@ linkedIn Twitter Dribble Instagram
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-/>]()
+/>](https://nodejs.org/en/)
 
 [<img
    align="left"
@@ -80,7 +80,7 @@ linkedIn Twitter Dribble Instagram
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
-/>]()
+/>](https://webpack.js.org/)
 
 [<img
    align="left"
@@ -88,7 +88,7 @@ linkedIn Twitter Dribble Instagram
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"
-/>]()
+/>](https://babeljs.io/)
 
 [<img
    align="left"
@@ -96,7 +96,7 @@ linkedIn Twitter Dribble Instagram
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-/>]()
+/>](https://firebase.google.com/)
 
 [<img
    align="left"
@@ -104,7 +104,7 @@ linkedIn Twitter Dribble Instagram
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-/>]()
+/>](https://tailwindcss.com/)
 
 [<img
    align="left"
@@ -112,7 +112,7 @@ linkedIn Twitter Dribble Instagram
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-/>]()
+/>](https://getbootstrap.com/)
 
 [<img
    align="left"
@@ -120,7 +120,7 @@ linkedIn Twitter Dribble Instagram
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-/>]()
+/>](https://git-scm.com/)
 
 [<img
    align="left"
@@ -128,7 +128,7 @@ linkedIn Twitter Dribble Instagram
    width="26px"
    style="padding-right: 10px"
    src="https://img.icons8.com/ios-glyphs/90/undefined/console.png"
-/>]()
+/>](https://docs.microsoft.com/en-us/windows/terminal/)
 
 [<img
    align="left"
@@ -136,7 +136,7 @@ linkedIn Twitter Dribble Instagram
    width="26px"
    style="padding-right: 10px"
    src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/undefined/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
-/>]()
+/>](https://www.netlify.com/)
 
 [<img
    align="left"
@@ -144,7 +144,7 @@ linkedIn Twitter Dribble Instagram
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-plain.svg"
-/>]()
+/>](https://www.google.com/)
 
 [<img
    align="left"
@@ -152,7 +152,7 @@ linkedIn Twitter Dribble Instagram
    width="25px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-/>]()
+/>](https://www.figma.com/)
 
 [<img
    align="left"
@@ -160,7 +160,7 @@ linkedIn Twitter Dribble Instagram
    width="22px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"
-/>]()
+/>](https://www.adobe.com/products/aftereffects.html)
 
 [<img
    align="left"
@@ -168,7 +168,7 @@ linkedIn Twitter Dribble Instagram
    width="22px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
-/>]()
+/>](https://www.adobe.com/products/illustrator.html)
 
 [<img
    align="left"
@@ -176,7 +176,7 @@ linkedIn Twitter Dribble Instagram
    width="22px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"
-/>]()
+/>](https://www.adobe.com/products/xd.html)
 
 [<img
    align="left"
@@ -184,6 +184,6 @@ linkedIn Twitter Dribble Instagram
    width="22px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
-/>]()
+/>](https://www.adobe.com/products/photoshop.html)
 
 
