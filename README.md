@@ -18,45 +18,45 @@ linkedIn Twitter Dribble Instagram
 
 ## Languages and Tools I Use
 
-<img
+[<img
    align="left"
    alt="Visual Studio Code"
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-/>
+/>]()
 
-<img
+[<img
    align="left"
    alt="html"
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-/>
+/>]()
 
-<img
+[<img
    align="left"
    alt="css"
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-/>
+/>]()
 
-<img
+[<img
    align="left"
    alt="sass"
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
-/>
+/>]()
 
-<img
+[<img
    align="left"
    alt="javascript"
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-/>
+/>()
 
 [<img
    align="left"
@@ -66,124 +66,124 @@ linkedIn Twitter Dribble Instagram
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
 />](https://reactjs.org/)
 
-<img
+[<img
    align="left"
    alt="node js"
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-/>
+/>]()
 
-<img
+[<img
    align="left"
    alt="webpack"
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
-/>
+/>]()
 
-<img
+[<img
    align="left"
    alt="babel"
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"
-/>
+/>]()
 
-<img
+[<img
    align="left"
    alt="firebase"
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-/>
+/>]()
 
-<img
+[<img
    align="left"
    alt="tailwind css"
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-/>
+/>]()
 
-<img
+[<img
    align="left"
    alt="bootstrap"
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-/>
+/>]()
 
-<img
+[<img
    align="left"
    alt="git"
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-/>
+/>]()
 
-<img
+[<img
    align="left"
    alt="terminal"
    width="26px"
    style="padding-right: 10px"
    src="https://img.icons8.com/ios-glyphs/90/undefined/console.png"
-/>
+/>]()
 
-<img
+[<img
    align="left"
    alt="netlify"
    width="26px"
    style="padding-right: 10px"
    src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/undefined/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
-/>
+/>]()
 
-<img
+[<img
    align="left"
    alt="google"
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-plain.svg"
-/>
+/>]()
 
-<img
+[<img
    align="left"
    alt="figma"
    width="25px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-/>
+/>]()
 
-<img
+[<img
    align="left"
    alt="after effects"
    width="22px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"
-/>
+/>]()
 
-<img
+[<img
    align="left"
    alt="illustrator"
    width="22px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
-/>
+/>]()
 
-<img
+[<img
    align="left"
    alt="adobe xd"
    width="22px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"
-/>
+/>]()
 
-<img
+[<img
    align="left"
    alt="photoshop"
    width="22px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
-/>
+/>]()
 
 
