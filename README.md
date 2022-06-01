@@ -189,7 +189,7 @@
    alt="google"
    width="25px"
    style="padding-right: 9px"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-plain.svg"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
 />](https://www.google.com/)
 
 [<img
