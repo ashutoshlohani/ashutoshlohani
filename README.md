@@ -132,7 +132,7 @@
    alt="firebase"
    width="25px"
    style="padding-right: 9px"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+   src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
 />](https://firebase.google.com/)
 
 [<img
