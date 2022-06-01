@@ -17,7 +17,7 @@
 linkedIn Twitter Dribble Instagram
 
 ## Languages and Tools I Use
-
+[
 [<img
    align="left"
    alt="Visual Studio Code"
@@ -185,5 +185,5 @@ linkedIn Twitter Dribble Instagram
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
 />](https://www.adobe.com/products/photoshop.html)
-
+]
 
