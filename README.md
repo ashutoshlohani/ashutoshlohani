@@ -82,7 +82,7 @@
 [<img
    align="left"
    alt="sass"
-   width="28px"
+   width="30px"
    style="padding-right: 9px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
 />](https://sass-lang.com/)
@@ -122,7 +122,7 @@
 [<img
    align="left"
    alt="babel"
-   width="28px"
+   width="30px"
    style="padding-right: 9px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"
 />](https://babeljs.io/)
