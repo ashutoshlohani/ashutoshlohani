@@ -36,7 +36,7 @@
    alt="Dribble"
    width="30px"
    style="padding-right: 10px"
-   src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png"
+   src="https://user-images.githubusercontent.com/54906517/171449267-c96b9efe-4b94-4998-88e6-0a1aaae05f56.png"
 />](https://www.linkedin.com/in/ashutosh-lohani)
 
 [<img
@@ -44,8 +44,19 @@
    alt="Instagram"
    width="30px"
    style="padding-right: 10px"
-   src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"
+   src="https://user-images.githubusercontent.com/54906517/171448904-7a6f2345-3d18-4cf4-8365-fb6eae9d7f7e.png"
 />](https://www.linkedin.com/in/ashutosh-lohani)
+
+[<img
+   align="left"
+   alt="Discord"
+   width="30px"
+   style="padding-right: 10px"
+   src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" 
+/>](https://www.linkedin.com/in/ashutosh-lohani)
+
+
+
 
 </br>
 <img src="https://media.giphy.com/media/3ohc0YpD0LR5wRyz1S/giphy.gif" width="70px" height="70px">
