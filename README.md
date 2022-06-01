@@ -18,12 +18,35 @@
 [<img
    align="left"
    alt="LinkedIn"
-   width="30px"
+   width="28px"
    style="padding-right: 10px"
-   src="https://img.icons8.com/glyph-neue/512/undefined/linkedin.png"
+   src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"
 />](https://www.linkedin.com/in/ashutosh-lohani)
 
-linkedIn Twitter Dribble Instagram
+[<img
+   align="left"
+   alt="Twitter"
+   width="30px"
+   style="padding-right: 10px"
+   src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"
+/>](https://www.linkedin.com/in/ashutosh-lohani)
+
+[<img
+   align="left"
+   alt="Dribble"
+   width="30px"
+   style="padding-right: 10px"
+   src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png"
+/>](https://www.linkedin.com/in/ashutosh-lohani)
+
+[<img
+   align="left"
+   alt="Instagram"
+   width="30px"
+   style="padding-right: 10px"
+   src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"
+/>](https://www.linkedin.com/in/ashutosh-lohani)
+
 </br>
 <img src="https://media.giphy.com/media/3ohc0YpD0LR5wRyz1S/giphy.gif" width="70px" height="70px">
 
@@ -144,7 +167,7 @@ linkedIn Twitter Dribble Instagram
 [<img
    align="left"
    alt="terminal"
-   width="26px"
+   width="27px"
    style="padding-right: 10px"
    src="https://img.icons8.com/fluency/96/undefined/console.png"
 />](https://docs.microsoft.com/en-us/windows/terminal/)
@@ -152,7 +175,7 @@ linkedIn Twitter Dribble Instagram
 [<img
    align="left"
    alt="netlify"
-   width="26px"
+   width="27px"
    style="padding-right: 10px"
    src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/undefined/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo.png"
 />](https://www.netlify.com/)
@@ -189,13 +212,5 @@ linkedIn Twitter Dribble Instagram
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
 />](https://www.adobe.com/products/illustrator.html)
-
-[<img
-   align="left"
-   alt="adobe xd"
-   width="22px"
-   style="padding-right: 10px"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"
-/>](https://www.adobe.com/products/xd.html)
 
 </br>
