@@ -178,13 +178,5 @@ linkedIn Twitter Dribble Instagram
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"
 />](https://www.adobe.com/products/xd.html)
 
-[<img
-   align="left"
-   alt="photoshop"
-   width="22px"
-   style="padding-right: 10px"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
-/>](https://www.adobe.com/products/photoshop.html)
-
 
 </br>
