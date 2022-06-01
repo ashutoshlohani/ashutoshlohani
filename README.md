@@ -14,6 +14,15 @@
 - ✌️ Last fall I got my master's degree in computer applications, since then I have grasped Figma, XD, Illustrator, After Effects and I have continued to hone my UI/UX design skills. I am still enthusiastically grabbing onto other frameworks, tools or principles I can integrate into my mental database.
 
 ## Connect With Me
+
+[<img
+   align="left"
+   alt="LinkedIn"
+   width="30px"
+   style="padding-right: 10px"
+   src="https://img.icons8.com/glyph-neue/512/undefined/linkedin.png"
+/>](https://www.linkedin.com/in/ashutosh-lohani)
+
 linkedIn Twitter Dribble Instagram
 </br>
 <img src="https://media.giphy.com/media/3ohc0YpD0LR5wRyz1S/giphy.gif" width="70px" height="70px">
@@ -137,7 +146,7 @@ linkedIn Twitter Dribble Instagram
    alt="terminal"
    width="26px"
    style="padding-right: 10px"
-   src="https://img.icons8.com/ios-glyphs/90/undefined/console.png"
+   src="https://img.icons8.com/fluency/96/undefined/console.png"
 />](https://docs.microsoft.com/en-us/windows/terminal/)
 
 [<img
@@ -145,8 +154,9 @@ linkedIn Twitter Dribble Instagram
    alt="netlify"
    width="26px"
    style="padding-right: 10px"
-   src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/undefined/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+   src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/undefined/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo.png"
 />](https://www.netlify.com/)
+
 
 [<img
    align="left"
