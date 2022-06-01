@@ -56,7 +56,7 @@ linkedIn Twitter Dribble Instagram
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-/>()
+/>]()
 
 [<img
    align="left"
