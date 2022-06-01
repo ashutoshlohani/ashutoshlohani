@@ -15,8 +15,10 @@
 
 ## Connect With Me
 linkedIn Twitter Dribble Instagram
+</br>
+<img src="https://media.giphy.com/media/3ohc0YpD0LR5wRyz1S/giphy.gif" width="70px" height="70px">
 
-## Languages and Tools I Use
+## Languages and Tools I Use 
 
 [<img
    align="left"
@@ -180,4 +182,4 @@ linkedIn Twitter Dribble Instagram
 
 </br>
 
-<img src="https://media.giphy.com/media/zhrlcZJsvQWDm/giphy.gif">
+
