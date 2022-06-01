@@ -192,13 +192,7 @@
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
 />
 
-<a target="_blank" href="https://icons8.com/icon/41318/powershell">PowerShell icon by Icons8</a>
-<a
-   target="_blank"
-   href="https://icons8.com/icon/sBo1RJ3rjbje/netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites."
-   >Netlify a cloud computing company that offers hosting and serverless backend services for static
-   websites. icon by Icons8</a
->
+
 
 
 
