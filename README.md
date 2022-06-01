@@ -61,6 +61,7 @@
    alt="react js"
    width="26px"
    style="padding-right: 10px"
+   target="https://reactjs.org/"  
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
 />
 
