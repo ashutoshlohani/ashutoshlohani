@@ -244,19 +244,3 @@
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
 />](https://www.figma.com/)
 
-[<img
-   align="left"
-   alt="after effects"
-   width="23px"
-   style="padding-right: 9px"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"
-/>](https://www.adobe.com/products/aftereffects.html)
-
-[<img
-   align="left"
-   alt="illustrator"
-   width="23px"
-   style="padding-right: 9px"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
-/>](https://www.adobe.com/products/illustrator.html)
-
