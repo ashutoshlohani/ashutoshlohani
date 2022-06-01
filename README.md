@@ -118,6 +118,14 @@ linkedIn Twitter Dribble Instagram
 
 [<img
    align="left"
+   alt="styled components"
+   width="25px"
+   style="padding-right: 10px"
+   src="https://styled-components.com/logo.png"
+/>](https://styled-components.com/)
+
+[<img
+   align="left"
    alt="git"
    width="26px"
    style="padding-right: 10px"
