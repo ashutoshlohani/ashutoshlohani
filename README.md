@@ -141,13 +141,13 @@
    alt=""
    width="26px"
    style="padding-right: 10px"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-plain.svg"
 />
 
 <img
    align="left"
    alt=""
-   width="26px"
+   width="25px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
 />
@@ -155,7 +155,7 @@
 <img
    align="left"
    alt=""
-   width="26px"
+   width="22px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"
 />
@@ -163,7 +163,7 @@
 <img
    align="left"
    alt=""
-   width="24px"
+   width="22px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
 />
@@ -179,7 +179,7 @@
 <img
    align="left"
    alt=""
-   width="20px"
+   width="22px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
 />
