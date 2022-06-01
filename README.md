@@ -97,8 +97,48 @@
 
 [<img
    align="left"
+   alt="Visual Studio Code"
+   width="27px"
+   style="padding-right: 9px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+/>](https://code.visualstudio.com/)
+
+[<img
+   align="left"
+   alt="html"
+   width="27px"
+   style="padding-right: 9px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+[<img
+   align="left"
+   alt="css"
+   width="27px"
+   style="padding-right: 9px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+[<img
+   align="left"
+   alt="sass"
+   width="29px"
+   style="padding-right: 9px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+/>](https://sass-lang.com/)
+
+[<img
+   align="left"
+   alt="javascript"
+   width="27px"
+   style="padding-right: 9px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[<img
+   align="left"
    alt="react js"
-   width="28px"
+   width="27px"
    style="padding-right: 9px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
 />](https://reactjs.org/)
@@ -106,7 +146,7 @@
 [<img
    align="left"
    alt="node js"
-   width="28px"
+   width="27px"
    style="padding-right: 9px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
 />](https://nodejs.org/en/)
@@ -114,7 +154,7 @@
 [<img
    align="left"
    alt="webpack"
-   width="28px"
+   width="27px"
    style="padding-right: 9px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
 />](https://webpack.js.org/)
@@ -122,7 +162,7 @@
 [<img
    align="left"
    alt="babel"
-   width="30px"
+   width="29px"
    style="padding-right: 9px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"
 />](https://babeljs.io/)
@@ -130,7 +170,7 @@
 [<img
    align="left"
    alt="firebase"
-   width="28px"
+   width="27px"
    style="padding-right: 9px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
 />](https://firebase.google.com/)
@@ -138,7 +178,7 @@
 [<img
    align="left"
    alt="tailwind css"
-   width="28px"
+   width="27px"
    style="padding-right: 9px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
 />](https://tailwindcss.com/)
@@ -146,7 +186,7 @@
 [<img
    align="left"
    alt="bootstrap"
-   width="28px"
+   width="27px"
    style="padding-right: 9px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
 />](https://getbootstrap.com/)
@@ -162,7 +202,7 @@
 [<img
    align="left"
    alt="git"
-   width="28px"
+   width="27px"
    style="padding-right: 9px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
 />](https://git-scm.com/)
@@ -170,7 +210,7 @@
 [<img
    align="left"
    alt="terminal"
-   width="28px"
+   width="27px"
    style="padding-right: 9px"
    src="https://img.icons8.com/fluency/96/undefined/console.png"
 />](https://docs.microsoft.com/en-us/windows/terminal/)
@@ -178,7 +218,7 @@
 [<img
    align="left"
    alt="netlify"
-   width="28px"
+   width="27px"
    style="padding-right: 9px"
    src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/undefined/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo.png"
 />](https://www.netlify.com/)
@@ -187,7 +227,7 @@
 [<img
    align="left"
    alt="google"
-   width="28px"
+   width="27px"
    style="padding-right: 9px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-plain.svg"
 />](https://www.google.com/)
@@ -195,8 +235,7 @@
 [<img
    align="left"
    alt="figma"
-   width="28px"
+   width="27px"
    style="padding-right: 9px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
 />](https://www.figma.com/)
-
