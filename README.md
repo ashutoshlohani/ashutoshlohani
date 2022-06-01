@@ -157,7 +157,7 @@
    alt=""
    width="26px"
    style="padding-right: 10px"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"
 />
 
 <img
