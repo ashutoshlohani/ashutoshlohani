@@ -17,6 +17,11 @@
 ## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
+
+            
+          
+
 VS Code, chrome Dev tool, HTML, CSS, sass, javaScript, ,node.js, webpack, parcel, babel, postcss, styled component, postCss, tailwind, bootstrap, Terminal, Powershell, git, github, netlify, heroku, Google 
 
 ## Connect with me
