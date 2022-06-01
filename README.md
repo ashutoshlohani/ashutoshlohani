@@ -6,15 +6,15 @@
 
 ## About Me
 - 🔭 I’m currently working on my portfolio and strengthening my JavaScript skills.
-- 🌱 I’m currently learning React.js, Redux, Firebase and 3D modeling and animation with [Blender](https://www.blender.org/).
+- 🌱 I’m currently learning [React.js](https://reactjs.org/), [Redux](https://redux.js.org/), [Firebase](https://firebase.google.com/) and 3D modeling and animation with [Blender](https://www.blender.org/).
 - 🤔 What I want to do next: Dive into React ecosystem to learn Next.js, Gatsby, GraphQL, Testing, and React Native.
 - 💬 Ask me about Javascript/ReactJS/Graphics Design/Tech.
 - 📫 Feel free chat with me: ashulohani97@outlook.com
-- ⚡ In meantime, you'll find me obsessed with Space🪐 Photography📸 Sketching✏️ Anime🍥, playing [Tabla](https://en.wikipedia.org/wiki/Tabla), Guitar and Badminton (neighbourhood professional✨).
+- ⚡ In meantime, you'll find me obsessed with Space🪐 Photography📸 Sketching✏️ Anime🍥, playing [Tabla](https://en.wikipedia.org/wiki/Tabla)/ Guitar and Badminton (neighbourhood professional✨).
 - ✌️ Last fall I got my master's degree in computer applications, since then I have grasped Figma and Adobe CS (AI/AE/XD/PS/LR) and I have continued to hone my UI/UX design skills. I am still enthusiastically grabbing onto other frameworks, tools or principles I can integrate into my mental database.
 
-## Contact Me
-github
+## Connect With Me
+linkedIn Twitter Dribble Instagram
 
 ## Languages and Tools I Use
 
