@@ -117,14 +117,6 @@
    alt=""
    width="26px"
    style="padding-right: 10px"
-   src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/styled-components.svg"
-/>
-
-<img
-   align="left"
-   alt=""
-   width="26px"
-   style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
 />
 
@@ -191,12 +183,3 @@
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
 />
-
-
-
-
-
-
-## Connect with me
-insta, dribble, spotify, linkedin, twitter
-
