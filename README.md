@@ -29,7 +29,7 @@
    width="30px"
    style="padding-right: 10px"
    src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"
-/>](https://www.linkedin.com/in/ashutosh-lohani)
+/>](https://twitter.com/oye__aashu)
 
 [<img
    align="left"
@@ -37,7 +37,7 @@
    width="30px"
    style="padding-right: 10px"
    src="https://user-images.githubusercontent.com/54906517/171449267-c96b9efe-4b94-4998-88e6-0a1aaae05f56.png"
-/>](https://www.linkedin.com/in/ashutosh-lohani)
+/>](https://dribbble.com/oaashu)
 
 [<img
    align="left"
@@ -45,7 +45,7 @@
    width="31px"
    style="padding-right: 10px"
    src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" 
-/>](https://www.linkedin.com/in/ashutosh-lohani)
+/>](https://discordapp.com/users/952633305478594580)
 
 [<img
    align="left"
@@ -53,7 +53,7 @@
    width="28px"
    style="padding-right: 10px"
    src="https://user-images.githubusercontent.com/54906517/171448904-7a6f2345-3d18-4cf4-8365-fb6eae9d7f7e.png"
-/>](https://www.linkedin.com/in/ashutosh-lohani)
+/>](https://www.instagram.com/ashutosh_lohani/)
 
 </br>
 
