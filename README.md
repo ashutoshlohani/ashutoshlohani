@@ -125,7 +125,7 @@
    alt=""
    width="26px"
    style="padding-right: 10px"
-   src="https://img.icons8.com/ios-filled/50/undefined/powershell.png"
+   src="https://img.icons8.com/ios-glyphs/90/undefined/console.png"
 />
 
 <img
