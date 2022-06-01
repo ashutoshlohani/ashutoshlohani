@@ -16,13 +16,192 @@
 
 ## Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img
+   align="left"
+   alt="Visual Studio Code"
+   width="26px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+/>
 
-            
-          
+<img
+   align="left"
+   alt=""
+   width="26px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+/>
 
-VS Code, chrome Dev tool, HTML, CSS, sass, javaScript, ,node.js, webpack, parcel, babel, postcss, styled component, postCss, tailwind, bootstrap, Terminal, Powershell, git, github, netlify, heroku, Google 
+<img
+   align="left"
+   alt=""
+   width="26px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+/>
+
+<img
+   align="left"
+   alt=""
+   width="26px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+/>
+
+<img
+   align="left"
+   alt=""
+   width="26px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+/>
+
+<img
+   align="left"
+   alt=""
+   width="26px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+/>
+
+<img
+   align="left"
+   alt=""
+   width="26px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+/>
+
+<img
+   align="left"
+   alt=""
+   width="26px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
+/>
+
+<img
+   align="left"
+   alt=""
+   width="26px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"
+/>
+
+<img
+   align="left"
+   alt=""
+   width="26px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+/>
+
+<img
+   align="left"
+   alt=""
+   width="26px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+/>
+
+<img
+   align="left"
+   alt=""
+   width="26px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+/>
+
+<img
+   align="left"
+   alt=""
+   width="26px"
+   style="padding-right: 10px"
+   src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/styled-components.svg"
+/>
+
+<img
+   align="left"
+   alt=""
+   width="26px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+/>
+
+<img
+   align="left"
+   alt=""
+   width="26px"
+   style="padding-right: 10px"
+   src="https://img.icons8.com/ios-filled/50/undefined/powershell.png"
+/>
+
+<img
+   align="left"
+   alt=""
+   width="26px"
+   style="padding-right: 10px"
+   src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/undefined/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+/>
+
+<img
+   align="left"
+   alt=""
+   width="26px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+/>
+
+<img
+   align="left"
+   alt=""
+   width="26px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+/>
+
+<img
+   align="left"
+   alt=""
+   width="26px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg"
+/>
+
+<img
+   align="left"
+   alt=""
+   width="26px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
+/>
+
+<img
+   align="left"
+   alt=""
+   width="26px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"
+/>
+
+<img
+   align="left"
+   alt=""
+   width="26px"
+   style="padding-right: 10px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
+/>
+
+<a target="_blank" href="https://icons8.com/icon/41318/powershell">PowerShell icon by Icons8</a>
+<a
+   target="_blank"
+   href="https://icons8.com/icon/sBo1RJ3rjbje/netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites."
+   >Netlify a cloud computing company that offers hosting and serverless backend services for static
+   websites. icon by Icons8</a
+>
+
+
+
 
 ## Connect with me
 insta, dribble, spotify, linkedin, twitter
