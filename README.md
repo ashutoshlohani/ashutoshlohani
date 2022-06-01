@@ -14,7 +14,7 @@
 - ✌️ Last fall I got my master's degree in computer applications, since then I have grasped Figma and Adobe CS (AI/AE/XD/PS/LR) and I have continued to hone my UI/UX design skills. I am still enthusiastically grabbing onto other frameworks, tools or principles I can integrate into my mental database.
 
 
-## Languages and Tools:
+## Languages and Tools I Use
 
 <img
    align="left"
@@ -61,7 +61,6 @@
    alt="react js"
    width="26px"
    style="padding-right: 10px"
-   target="https://reactjs.org/"  
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
 />
 
@@ -184,3 +183,5 @@
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
 />
+
+## Contact Me
