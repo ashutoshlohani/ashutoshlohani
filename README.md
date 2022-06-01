@@ -26,7 +26,7 @@
 
 <img
    align="left"
-   alt=""
+   alt="html"
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
@@ -34,7 +34,7 @@
 
 <img
    align="left"
-   alt=""
+   alt="css"
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
@@ -42,7 +42,7 @@
 
 <img
    align="left"
-   alt=""
+   alt="sass"
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
@@ -50,7 +50,7 @@
 
 <img
    align="left"
-   alt=""
+   alt="javascript"
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
@@ -58,7 +58,7 @@
 
 <img
    align="left"
-   alt=""
+   alt="react js"
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
@@ -66,7 +66,7 @@
 
 <img
    align="left"
-   alt=""
+   alt="node js"
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
@@ -74,7 +74,7 @@
 
 <img
    align="left"
-   alt=""
+   alt="webpack"
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
@@ -82,7 +82,7 @@
 
 <img
    align="left"
-   alt=""
+   alt="babel"
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"
@@ -90,7 +90,7 @@
 
 <img
    align="left"
-   alt=""
+   alt="firebase"
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
@@ -98,7 +98,7 @@
 
 <img
    align="left"
-   alt=""
+   alt="tailwind css"
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
@@ -106,7 +106,7 @@
 
 <img
    align="left"
-   alt=""
+   alt="bootstrap"
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
@@ -114,7 +114,7 @@
 
 <img
    align="left"
-   alt=""
+   alt="git"
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
@@ -122,7 +122,7 @@
 
 <img
    align="left"
-   alt=""
+   alt="terminal"
    width="26px"
    style="padding-right: 10px"
    src="https://img.icons8.com/ios-glyphs/90/undefined/console.png"
@@ -130,7 +130,7 @@
 
 <img
    align="left"
-   alt=""
+   alt="netlify"
    width="26px"
    style="padding-right: 10px"
    src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/undefined/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
@@ -138,7 +138,7 @@
 
 <img
    align="left"
-   alt=""
+   alt="google"
    width="26px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-plain.svg"
@@ -146,7 +146,7 @@
 
 <img
    align="left"
-   alt=""
+   alt="figma"
    width="25px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
@@ -154,7 +154,7 @@
 
 <img
    align="left"
-   alt=""
+   alt="after effects"
    width="22px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"
@@ -162,7 +162,7 @@
 
 <img
    align="left"
-   alt=""
+   alt="illustrator"
    width="22px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
@@ -170,7 +170,7 @@
 
 <img
    align="left"
-   alt=""
+   alt="adobe xd"
    width="22px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"
@@ -178,7 +178,7 @@
 
 <img
    align="left"
-   alt=""
+   alt="photoshop"
    width="22px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
