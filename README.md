@@ -163,7 +163,7 @@
 <img
    align="left"
    alt=""
-   width="26px"
+   width="24px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
 />
@@ -171,7 +171,7 @@
 <img
    align="left"
    alt=""
-   width="26px"
+   width="22px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"
 />
@@ -179,7 +179,7 @@
 <img
    align="left"
    alt=""
-   width="26px"
+   width="20px"
    style="padding-right: 10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
 />
