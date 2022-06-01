@@ -39,7 +39,7 @@
    src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"
 />](https://www.linkedin.com/in/ashutosh-lohani)
 
-# Ashutosh_Lohani 
+# Ashutosh Lohani 
 
 <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="32px" height="32px"> नमस्ते!  I'm Aashu. I'm a self taught Frontend developer and Creaive Developer based on [Nainital India](https://www.google.com/search?q=nainital&sxsrf=ALiCzsZbA5imlaxq1odPnOGj6P7fMADoug%3A1654019878275&source=hp&ei=JleWYujnDuf04-EPyrS_mAk&iflsig=AJiK0e8AAAAAYpZlNteAUU4R-d8-xzd8i0nVHZmfP4Qo&gs_ssp=eJzj4tTP1TcwtEjOtjRg9OLIS8zMyyxJzAEAPqQGUg&oq=nani&gs_lcp=Cgdnd3Mtd2l6EAMYADIKCC4QsQMQgwEQCjIECC4QQzIKCAAQsQMQgwEQCjIKCAAQsQMQgwEQCjIICC4QgAQQ1AIyBAgAEEMyDQguELEDEMcBEKMCEAoyCggAELEDEIMBEAoyDQgAELEDEIMBEMkDEAoyBQgAEIAEOgcIIxDqAhAnOgcILhDqAhAnOgQILhAnOgQIIxAnOgUILhCRAjoRCC4QgAQQsQMQgwEQxwEQ0QM6CwgAEIAEELEDEIMBOgcILhDUAhBDOgoIABCABBCHAhAUOgUILhCABFCiC1jAJGD_MGgBcAB4AIAB4QGIAYYGkgEFMC4zLjGYAQCgAQGwAQo&sclient=gws-wiz). The space between development and design where i thrive. I prefer to build useful and usable things with quality code and a great user experience. 
 
