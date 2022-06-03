@@ -45,7 +45,7 @@
 
 ## About me
 - 🔭 I’m currently working on my portfolio and strengthening my JavaScript skills.
-- 🌱 I’m currently learning [React.js](https://reactjs.org/), [Redux](https://redux.js.org/), [Firebase](https://firebase.google.com/) and 3D modeling and animation with [Blender](https://www.blender.org/).
+- 🌱 I’m currently learning [React.js](https://reactjs.org/), [Redux](https://redux.js.org/), [Firebase](https://firebase.google.com/) and 3D modelling and animation with [Blender](https://www.blender.org/).
 - 🤔 What I want to do next: Dive into React ecosystem to learn Next.js, Gatsby, GraphQL and Testing.
 - 💬 Ask me about Javascript/ReactJS/Graphics Design/Tech.
 - 📫 Feel free chat with me: ashulohani97@outlook.com
