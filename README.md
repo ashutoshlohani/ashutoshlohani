@@ -50,7 +50,7 @@
 - 💬 Ask me about Javascript/ReactJS/Graphics Design/Tech.
 - 📫 Feel free chat with me: ashulohani97@outlook.com
 - ⚡ In meantime, you'll find me obsessed with Space🪐 Photography📸 Sketching✏️ Anime🍥, playing [Tabla](https://en.wikipedia.org/wiki/Tabla) / Guitar and Badminton (✨neighbourhood professional).
-- ✌️ Last fall I got my master's degree in computer applications, since then I have grasped Figma, XD, Illustrator, After Effects and I have continued to hone my UX Design skills. I am still enthusiastically grabbing onto other frameworks, tools or principles I can integrate into my mental database.
+- ✌️ Last fall I got my master's degree in computer applications, since then I have grasped Figma, XD, Illustrator, After Effects and I have continued to hone my UX Design skills. I am still enthusiastically grabbing onto other frameworks, tools or principles I can commit into memory.
 
 ## Languages and tools I use 
 
